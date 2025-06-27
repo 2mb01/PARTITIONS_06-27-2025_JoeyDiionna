@@ -8,3 +8,4 @@ Adding additional drive to a virtual machine
 4. After clicking add it you configure the drive and then select the size and location that you want the drive to be stored in.
 5. after doing all that we can add it and go into the machine to partition it. 
 
+![Screenshot 2025-06-27 105907](https://github.com/user-attachments/assets/4331a1a2-147b-43fb-b94e-b2be42032364)
